@@ -3,3 +3,11 @@ go
 
 Create schema opeational 
 go
+
+Create table Customer 
+( id int , 
+
+name  sysname , 
+
+companyname varchar(1000) 
+)
