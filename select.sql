@@ -9,5 +9,6 @@ Create table Customer
 
 name  sysname , 
 
-companyname varchar(1000) 
+companyname varchar(1000),
+city varchar(1000)
 )
