@@ -4,4 +4,4 @@ select  *
 
 from products 
 
-where unitprice = 9
+where unitprice in ( 10 , 12 , 13 , 15 , 18 ) 
